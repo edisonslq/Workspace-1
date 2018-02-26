@@ -1,0 +1,15 @@
+.capitals{
+	background-color: black;
+	color: white;
+
+}
+#Special{
+	background-color: hotpink;
+}
+div{
+	background-color: lightgrey;
+	width: 300px;
+	border: 25px solid green;
+	padding: 25px;
+	margin: 25px;
+}
